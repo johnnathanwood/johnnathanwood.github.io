@@ -96,4 +96,16 @@
     background-color: #555;
 }
 
+.contactButton {
+    background-color: dimgray;
+    padding-right: 3em;
+    padding-left: 3em;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+}
+
+.contactButton:hover {
+    background-color:#4CAF50;
+}
 
