@@ -111,3 +111,22 @@
 .NSS{
     text-decoration: none;
 }
+
+/* CLARK'S CSS CHANGES */
+
+#centerpage {
+    margin: 0 auto 0 auto;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    margin: 10px 0 0 0;
+}
+
+h1 {
+    text-align: center;
+}
