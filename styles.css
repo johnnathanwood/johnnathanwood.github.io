@@ -111,3 +111,25 @@
 .NSS{
     text-decoration: none;
 }
+<<<<<<< HEAD
+=======
+
+/* CLARK'S CSS CHANGES */
+
+#centerpage {
+    margin: 0 auto 0 auto;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    margin: 10px 0 0 0;
+}
+
+h1 {
+    text-align: center;
+}
+>>>>>>> 742550aa2dc8885d4294ccbcaff99becdc7f5322
